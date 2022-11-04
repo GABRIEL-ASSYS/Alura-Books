@@ -1,0 +1,18 @@
+@import url(styles.css);
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem {
+    padding: 1em;
+}
+
+.container__botao:checked ~ .lista-menu{
+    display: block;
+}
+
+.container__botao {
+    display: none;
+}
