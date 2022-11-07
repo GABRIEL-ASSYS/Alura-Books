@@ -7,8 +7,9 @@
     width: 60vw;
 }
 
-.lista-menu__titulo, .lista-menu__item {
-    padding: 1em; 
+.lista-menu__titulo,
+.lista-menu__item {
+    padding: 1em;
     background-color: var(--branco);
 }
 
@@ -23,4 +24,15 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+@media screen and (min-width: 1024px) {
+
+    .lista-menu__item:hover {
+        background: var(--azul-degrade);
+    }
+
+    .lista-menu__item:hover>.lista-menu__link {
+        -webkit-text-fill-color: var(--branco);
+    }
 }
