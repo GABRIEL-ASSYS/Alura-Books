@@ -1,4 +1,4 @@
-# Alura Books
+# Alura Books 📚
 
   A Alura Books é um projeto criado durante um curso sobre HTML e CSS na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando as linguagens HTML5 e CSS3, sendo uma página WEB sobre uma plataforma de livros, onde contém lançamentos de livros ligados as áreas de desenvolvimento, informações sobre autores, tópicos específicos de livros e informações sobre o grupo Alura.
 
