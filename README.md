@@ -4,11 +4,6 @@
 
 ## Home:
 ![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%201.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%202.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%203.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%204.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%205.png)
-![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%206.png)
 
 ## Menu lateral:
 ![print da página](https://github.com/GABRIEL-ASSYS/Alura-Books/blob/main/assets/img/print%207.png)
